@@ -1,4 +1,7 @@
 # Portfolio
+<a href="https://lattes.cnpq.br/1819201681506424">
+    <img src="images/lattes_logo.png" alt="Currículo Lattes" width="25" height="25">
+</a>
 
 ### Education
 PhD student of Physics Applied to Medicine and Biology at University of São Paulo (USP-RP)
@@ -6,7 +9,4 @@ PhD student of Physics Applied to Medicine and Biology at University of São Pau
 ### Work Experience
 
 ### Projects
-<a href="https://lattes.cnpq.br/1819201681506424">
-    <img src="images/lattes_logo.png" alt="Currículo Lattes" width="50" height="50">
-</a>
 
