@@ -13,9 +13,10 @@ PhD student of Physics Applied to Medicine and Biology at University of São Pau
         <img src="images/lattes_logo.png" alt="Currículo Lattes" width="30" height="30">
     </a>
     <a href="https://www.linkedin.com/in/suzielli-mendonca/" style="margin-right: 10px;">
-        <img src="images/linkedin_logo.png" alt="LinkedIn" width="30" height="30">
+        <img src="images/linkedin.logo.png" alt="Facebook" width="30" height="30">
     </a>
-    <a href="mailto:seuemail@example.com">
+    <a href="mailto:suziellim@gmail.com">
         <img src="images/email_logo.png" alt="Email" width="30" height="30">
     </a>
 </footer>
+
